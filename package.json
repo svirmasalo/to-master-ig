@@ -1,0 +1,12 @@
+{
+  "name": "instaxpress",
+  "version": "1.0.0",
+  "description": "trying to figure instagram api out",
+  "main": "api.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "node-instagram": "^4.1.0"
+  }
+}
